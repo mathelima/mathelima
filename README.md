@@ -1,6 +1,6 @@
 👨🏻‍💻  About Me:
 
-- 💻  I'm a Software Engineer at Olist, working with Python, Django, DRF and Postgres.
+- 💻  I'm a Software Engineer at Critical TechWorks, working with Python, React, AWS and Terraform.
 - 👀  I’m interested in backend development.
 - 🎓  I have a bachelor degree in Computer Science at Universidade Federal do Paraná.
 - 🌱  I'm on track for learning more about Kubernetes and Design Patterns.
@@ -15,8 +15,6 @@
 - Pytest
 - Unittest
 - PostgreSQL
-- Java
-- Spring Boot
 - AWS
 - Terraform
 - Linux
